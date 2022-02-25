@@ -1,0 +1,382 @@
+[{
+		"Id": "22565423115",
+		"ProductName": "Southridge Video Laptop15.4W M1548",
+		"CategoryId": "22565422991",
+		"Price": 644.30,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Southridge Video"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "12.8 x 8.8 x 0.7 inches"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1101"
+			}, {
+				"KeyName": "Description",
+				"Value": "Southridge Video Lap"
+			}
+		]
+	}, {
+		"Id": "22565423145",
+		"ProductName": "WWI Laptop19W X0196",
+		"CategoryId": "22565422991",
+		"Price": 1104.15,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Wide World Importers"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "13.4 x 9.1 x 0.8 inches"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1107"
+			}, {
+				"KeyName": "Description",
+				"Value": "WWI Laptop19W X0196"
+			}
+		]
+	}, {
+		"Id": "22565423165",
+		"ProductName": "Proseware Laptop19 X910",
+		"CategoryId": "22565422991",
+		"Price": 1104.15,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Proseware"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "13.4 x 9.1 x 0.8 inches"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1113"
+			}, {
+				"KeyName": "Description",
+				"Value": "Proseware Laptop19 X"
+			}
+		]
+	}, {
+		"Id": "22565423183",
+		"ProductName": "Fabrikam Laptop16 M6000",
+		"CategoryId": "22565422991",
+		"Price": 509.15,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Fabrikam"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "13.4 x 9.1 x 0.8 inches"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1119"
+			}, {
+				"KeyName": "Description",
+				"Value": "Fabrikam Laptop16 M6"
+			}
+		]
+	}, {
+		"Id": "22565423191",
+		"ProductName": "WWI Tablet X200",
+		"CategoryId": "22565422992",
+		"Price": 509.15,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Wide World Importers"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1201"
+			}, {
+				"KeyName": "Description",
+				"Value": "WWI Tablet X200"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}, {
+		"Id": "22565423197",
+		"ProductName": "Proseware Tablet M500",
+		"CategoryId": "22565422992",
+		"Price": 509.15,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Proseware"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1203"
+			}, {
+				"KeyName": "Description",
+				"Value": "Proseware Tablet M50"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}, {
+		"Id": "22565423203",
+		"ProductName": "Fabrikam Tablet M50",
+		"CategoryId": "22565422992",
+		"Price": 84.15,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Fabrikam"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1205"
+			}, {
+				"KeyName": "Description",
+				"Value": "Fabrikam Tablet M50"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}, {
+		"Id": "22565423211",
+		"ProductName": "Southridge Video Desktop PC2.33 XD233",
+		"CategoryId": "22565422993",
+		"Price": 823.65,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Southridge Video"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1301"
+			}, {
+				"KeyName": "Description",
+				"Value": "Southridge Video Des"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}, {
+		"Id": "22565423239",
+		"ProductName": "WWI Desktop PC2.33 X2330",
+		"CategoryId": "22565422993",
+		"Price": 781.15,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Wide World Importers"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1307"
+			}, {
+				"KeyName": "Description",
+				"Value": "WWI Desktop PC2.33 X"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}, {
+		"Id": "22565423267",
+		"ProductName": "Proseware LCD24 X300",
+		"CategoryId": "22565422994",
+		"Price": 696.15,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Proseware"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1401"
+			}, {
+				"KeyName": "Description",
+				"Value": "Proseware LCD24 X300"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}, {
+		"Id": "22565423285",
+		"ProductName": "Southridge Video LCD24 X300",
+		"CategoryId": "22565422994",
+		"Price": 696.15,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Southridge Video"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1407"
+			}, {
+				"KeyName": "Description",
+				"Value": "Southridge Video LCD"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}, {
+		"Id": "22565423303",
+		"ProductName": "WWI LCD24 X300",
+		"CategoryId": "22565422994",
+		"Price": 696.15,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Wide World Importers"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1413"
+			}, {
+				"KeyName": "Description",
+				"Value": "WWI LCD24 X300"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}, {
+		"Id": "22565423333",
+		"ProductName": "Proseware Photo Ink Jet Printer M100",
+		"CategoryId": "22565422995",
+		"Price": 135.15,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Proseware"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1501"
+			}, {
+				"KeyName": "Description",
+				"Value": "Proseware Photo Ink"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}, {
+		"Id": "22565423337",
+		"ProductName": "Proseware Ink Jet All in one M300",
+		"CategoryId": "22565422995",
+		"Price": 143.65,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Proseware"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1502"
+			}, {
+				"KeyName": "Description",
+				"Value": "Proseware Ink Jet Al"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}, {
+		"Id": "22565423354",
+		"ProductName": "Proseware Mobile Receipt Scanner M200",
+		"CategoryId": "22565422995",
+		"Price": 98.6,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Proseware"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1507"
+			}, {
+				"KeyName": "Description",
+				"Value": "Proseware Mobile Rec"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}, {
+		"Id": "22565423358",
+		"ProductName": "Proseware Flat Bed Scanner M300",
+		"CategoryId": "22565422995",
+		"Price": 102.85,
+		"Properties": [{
+				"KeyName": "Brand",
+				"Value": "Proseware"
+			}, {
+				"KeyName": "ItemNumber",
+				"Value": "1508"
+			}, {
+				"KeyName": "Description",
+				"Value": "Proseware Flat Bed S"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}, {
+		"Id": "22565423381",
+		"ProductName": "Litware Cables To Go USB 2.0 E920",
+		"CategoryId": "22565422996",
+		"Price": 10.12,
+		"Properties": [{
+				"KeyName": "ItemNumber",
+				"Value": "1601"
+			}, {
+				"KeyName": "Description",
+				"Value": "Litware Cables To Go"
+			}, {
+				"KeyName": "Brand",
+				"Value": "Default"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}, {
+		"Id": "22565423383",
+		"ProductName": "Litware USB Optical Mouse E200",
+		"CategoryId": "22565422996",
+		"Price": 13.18,
+		"Properties": [{
+				"KeyName": "ItemNumber",
+				"Value": "1602"
+			}, {
+				"KeyName": "Description",
+				"Value": "Litware USB Optical"
+			}, {
+				"KeyName": "Brand",
+				"Value": "Default"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}, {
+		"Id": "22565423388",
+		"ProductName": "Litware Laptop Keyboard X105",
+		"CategoryId": "22565422996",
+		"Price": 13.18,
+		"Properties": [{
+				"KeyName": "ItemNumber",
+				"Value": "1603"
+			}, {
+				"KeyName": "Description",
+				"Value": "Litware Laptop Keybo"
+			}, {
+				"KeyName": "Brand",
+				"Value": "Default"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}, {
+		"Id": "22565423393",
+		"ProductName": "Litware Wireless Mouse M35",
+		"CategoryId": "22565422996",
+		"Price": 25.46,
+		"Properties": [{
+				"KeyName": "ItemNumber",
+				"Value": "1604"
+			}, {
+				"KeyName": "Description",
+				"Value": "Litware Wireless Mou"
+			}, {
+				"KeyName": "Brand",
+				"Value": "Default"
+			}, {
+				"KeyName": "Dimensions",
+				"Value": "Default"
+			}
+		]
+	}
+]

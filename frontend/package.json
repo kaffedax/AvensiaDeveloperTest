@@ -1,0 +1,17 @@
+{
+  "name": "frontend-evaluation",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "parcel build src/index",
+    "start": "api-server | parcel src/index.html --open",
+    "serve": "api-server",
+    "pretty": "prettier --write **/*.{md,js,ts,jsx,tsx,json}"
+  },
+  "devDependencies": {
+    "avensia-api-sample-server": "https://github.com/avensia/api-sample-server",
+    "node-sass": "^4.7.2",
+    "parcel-bundler": "^1.6.2",
+    "prettier": "1.11.1",
+    "typescript": "2.7.2"
+  }
+}
